@@ -25,9 +25,9 @@ ________________________________________
 o	Public IP for accessibility.
 o	Apache Web Server (HTTPD) pre-installed using a user data script.
 o	The server automatically starts and serves a basic webpage:
-html
-CopyEdit
-<h1>Deployed via Terraform</h1>
+"" html
+   CopyEdit
+   <h1>Deployed via Terraform</h1> ""
 ________________________________________
 6. Remote Backend (Optional)
 •	Supports S3 backend for storing Terraform state (uncomment the backend block in the code to enable it).
