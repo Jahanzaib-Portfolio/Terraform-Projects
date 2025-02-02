@@ -29,7 +29,7 @@ html
 CopyEdit
 <h1>Deployed via Terraform</h1>
 ________________________________________
- 6. Remote Backend (Optional)
+6. Remote Backend (Optional)
 •	Supports S3 backend for storing Terraform state (uncomment the backend block in the code to enable it).
 •	Prevents local state corruption and allows team collaboration.
 
